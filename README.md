@@ -55,6 +55,11 @@ Here are some images of my completed robot:
 
       - The initial spray paint application had uneven coverage and required a second coat.
       - For hard-to-reach spots, I used a marker for finer details.
+    
+   - Assemblying Problems:
+
+     - Paint inside connection points created tight fits, making assembly difficult.
+     - **Solution**: I used a wood rasp-cut file to carefully widen and clean the connections, ensuring components fit properly.
 
    - Coding Bugs:
 
