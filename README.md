@@ -1,6 +1,6 @@
 # WALL-E Replica Build 🛠️🤖
 
-This repository documents my personal build of the [WALL-E Replica Robot](https://wired.chillibasket.com/3d-printed-wall-e/), an open-source robotics project designed by [chillibasket](https://github.com/chillibasket). The original designs, code, and instructions belong to the creator, and this repository serves as a showcase of my assembly process and experience.
+This repository documents my personal build of the [WALL-E Replica Robot](https://wired.chillibasket.com/3d-printed-wall-e/), an open-source robotics project designed by [chillibasket](https://github.com/chillibasket). I built this project in 2019 - 2020, when I was just 14 years old. This was my first robot that inspired me to make my own robot one day. (The original designs, code, and instructions belong to the creator, and this repository serves as a showcase of my assembly process and experience.
 
 ---
 
