@@ -17,9 +17,10 @@ The WALL-E Replica Robot is a 3D-printed, microcontroller-powered robotic replic
 
 Here are some images of my completed robot:
 
-![WALL-E Front View](path/to/your/image1.jpg)
-![WALL-E Side View](path/to/your/image2.jpg)
-![WALL-E Back View](path/to/your/image3.jpg)
+![WALL-E Front View](images/front_view.jpg)
+![WALL-E Side View](images/side_view.jpg)
+![WALL-E Inside View](images/inside_view.jpg)
+![WALL-E Speakers](images/speakers.jpg)
 
 ---
 
