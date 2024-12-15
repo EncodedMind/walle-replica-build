@@ -33,9 +33,33 @@ Here are some images of my completed robot:
    - Followed the assembly guide from the original repository.
    - Connected the microcontrollers and wired components as instructed.
 
-3. **Challenges:**
-   - Faced [e.g., alignment issues with X part, printer calibration problems].
-   - Solved [e.g., part warping by increasing bed temperature, used alternative screws for better fit].
+3. **Challenges:** \
+   Building the WALL-E replica wasn’t without its hurdles. Here are some of the major challenges I encountered and how I overcame them:
+
+   - Battery Size Issues:
+
+      - The battery I found was too large, forcing all the components to be squished together inside the robot. This led to:
+      - Multiple jumper wires breaking due to stress.
+      - Several GPIO pins on the Arduino being damaged beyond repair.
+      - **Solution**: I purchased a new Arduino and made significant improvements:
+      - Covered the Arduino and Raspberry Pi with protective cases.
+      - Improved cable management by carefully rerouting wires.
+      - Drilled a hole in the robot’s body to mount the speaker on the exterior, freeing up internal space.
+
+   - 3D Printing Problems:
+
+      - Poor bed leveling resulted in wasted plastic and time.
+      - **Solution**: I re-calibrated my 3D printer, fine-tuning the bed leveling process for better prints.
+     
+   - Painting Difficulties:
+
+      - The initial spray paint application had uneven coverage and required a second coat.
+      - For hard-to-reach spots, I used a marker for finer details.
+
+   - Coding Bugs:
+
+      - The robot’s software contained several bugs that were challenging to debug, especially when running on the Raspberry Pi.
+      - **Solution**: I dove into Raspberry Pi-specific debugging tools and learned new techniques to fix the issues, which was a valuable learning experience.
 
 4. **Final Testing:**
    - Successfully tested movement, sounds, and other functionalities.
